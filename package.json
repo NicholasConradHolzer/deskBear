@@ -1,0 +1,22 @@
+{
+  "name": "deskbear",
+  "version": "1.0.0",
+  "description": "HelpDesk for SmallTeam Ticket Response",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Nicholas Holzer",
+  "license": "ISC",
+  "dependencies": {
+    "all": "^0.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
